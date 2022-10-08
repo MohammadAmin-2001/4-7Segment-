@@ -1,0 +1,60 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>P:\assem\HW2\HW2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>P:\assem\HW2\HW2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m32def.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\M32DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>P:\assem\HW2\HW2\Debug\HW2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>HW2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>HW2.map</FILE>
+  <FILE>HW2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <START><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>86</LINE></START>
+  <SWITCH><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>29</LINE></SWITCH>
+  <LOOP2><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>61</LINE></LOOP2>
+  <LOOP1><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>37</LINE></LOOP1>
+  <INCREL0><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>129</LINE></INCREL0>
+  <INCREL1><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>133</LINE></INCREL1>
+  <INCREL2><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>137</LINE></INCREL2>
+  <INCREL3><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>141</LINE></INCREL3>
+  <INCREL4><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>146</LINE></INCREL4>
+  <DECL0><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>151</LINE></DECL0>
+  <DECL1><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>156</LINE></DECL1>
+  <DECL2><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>160</LINE></DECL2>
+  <DECL3><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>164</LINE></DECL3>
+  <DECL4><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>168</LINE></DECL4>
+  <LIGHT1><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>90</LINE></LIGHT1>
+  <CONVERT><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>173</LINE></CONVERT>
+  <DELAY><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>241</LINE></DELAY>
+  <LIGHT2><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>100</LINE></LIGHT2>
+  <LIGHT3><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>109</LINE></LIGHT3>
+  <LIGHT4><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>119</LINE></LIGHT4>
+  <L0><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>175</LINE></L0>
+  <L1><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>182</LINE></L1>
+  <L2><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>188</LINE></L2>
+  <L3><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>194</LINE></L3>
+  <L4><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>200</LINE></L4>
+  <L5><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>206</LINE></L5>
+  <L6><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>212</LINE></L6>
+  <L7><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>218</LINE></L7>
+  <L8><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>224</LINE></L8>
+  <L9><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>230</LINE></L9>
+  <NULL><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>236</LINE></NULL>
+  <LO2><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>245</LINE></LO2>
+  <LO3><FILE>P:\assem\HW2\HW2\main.asm</FILE><LINE>248</LINE></LO3>
+ </LABELS>
+</ASSEMBLER_INFO>
